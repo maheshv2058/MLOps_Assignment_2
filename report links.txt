@@ -1,0 +1,6 @@
+https://www.kaggle.com/code/maheshvg25ait2058/notebook52300426d0?scriptVersionId=321188517
+
+
+https://huggingface.co/maheshvgv/distilbert-goodreads-genres/tree/main
+
+https://wandb.ai/maheshvgv-mahesh/distilbert-goodreads-genres/runs/x2ji9zyu?nw=nwusermaheshvgv
